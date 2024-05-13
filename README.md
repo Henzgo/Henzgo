@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Henry</h1>
-<h3 align="center">A passionate Full Stack Developer from Switzerland</h3>
+<h3 align="center">A Computer Science Student at ZHAW</h3>
 
-- 🔭 I’m currently working on [Roamers Route](https://www.roamersroute.com/)
+- 🔭 I’m currently in the second semester
 
 - 🌱 I’m currently learning **Three.js**
 
