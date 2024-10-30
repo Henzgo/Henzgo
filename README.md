@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Henry</h1>
 <h3 align="center">A Computer Science Student at ZHAW</h3>
 
-- 🔭 I’m currently in the second semester
+- 🔭 I’m currently in the third semester
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **OpenGL in C++**
 
 - 📫 How to reach me **henry.eschenmoser@gmail.com**
 
