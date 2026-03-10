@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Student at ZHAW</h3>
 
 <div align="center">
-  🔭 I’m currently in the fifth semester
+  🔭 I’m currently in the sixth semester
   
   🌱 I’m currently learning **OpenGL in C++**
   
